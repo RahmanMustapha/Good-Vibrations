@@ -7,6 +7,7 @@ Projects within the class consist of
   - a game of pong which can be played hand and eyes free, the controller is moved with voice input and the loaction of the paddle is signaled by pitch         output
   - a 3D printed finger extension that is compatible with smart deveices (it conducts enough charge to interact with capacitive screens)
   - a redesign of Chicago transit signs to give more clarity on train arrival/departure, emergencies, direction, delays
+  - Protyping and design of a 3D contoller interface meant to be used along with a VR UI system that would indicate oxygen, depth, battery, and radar for a     scuba-diving system
 
 Projects within the lab consist of 
   - assisting with the user studies of several projects, such as HANDMORPH
